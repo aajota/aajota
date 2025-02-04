@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/aajota/aajota/output/snake.svg" alt="Snake animation" />
 
 ###
