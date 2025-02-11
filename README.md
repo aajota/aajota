@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> >Agile Test <br> >Analista de Qualidade De Software<br> >QA</p>
+<p align="left"> Agile Test <br> Analista de Qualidade De Software<br> QA</p>
 
 ###
 
