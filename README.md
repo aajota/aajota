@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🕷️Agile Test QA<br>🖥️Analista de Qualidade De Software</p>
+<p align="left">🕷️ Agile Test QA<br>🖥️ Analista de Qualidade De Software</p>
 
 ###
 
