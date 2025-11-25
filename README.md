@@ -32,13 +32,13 @@ Minha stack é focada em automação robusta e eficiente:
 
 Estes repositórios demonstram minha proficiência com as principais ferramentas de automação:
 
-* **[Playwright E2E Test Suite]([https://github.com/aajota/Playwright])**
+* **[Playwright E2E Test Suite](https://github.com/aajota/Playwright)**
     > Automação de testes End-to-End utilizando Playwright com JavaScript, focado em alta velocidade e confiabilidade.
-* **[RestAssured API Testing with Java]([https://github.com/aajota/RestAssured])**
+* **[RestAssured API Testing with Java](https://github.com/aajota/RestAssured)**
     > Exemplos de testes de API RESTful, validação de schemas e performance utilizando o framework RestAssured em Java.
-* **[Cucumber & Ruby/Java Integration]([https://github.com/aajota/CucumberRuby])**
+* **[Cucumber & Ruby/Java Integration](https://github.com/aajota/CucumberRuby)**
     > Demonstração de testes BDD utilizando Gherkin em conjunto com implementações em Ruby e Java.
-* **[Cypress Actions Workflow]([https://github.com/aajota/CypressActions])**
+* **[Cypress Actions Workflow](https://github.com/aajota/CypressActions)**
     > Projeto focado na integração de testes Cypress com o pipeline de CI/CD utilizando GitHub Actions.
 
 ---
