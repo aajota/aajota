@@ -8,8 +8,6 @@ Sou um profissional com foco em **Qualidade de Software** e **Testes Ágeis**. M
 
 ## 🛠️ Habilidades Técnicas
 
-Minha stack é focada em automação robusta e eficiente:
-
 | Categoria | Frameworks |
 | :--- | :--- |
 | **Automação Web/E2E** | **Playwright**, **Cypress**, Selenium, Robot Framework |
