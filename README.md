@@ -1,46 +1,49 @@
-<h2 align="left">About Me</h2>
+# 👨‍💻 Antonio Lima Goes Junior
 
-###
+### 📍 Analista de Qualidade De Software | Agile Test QA
 
-<p align="left">🕷️Agile Test QA<br>🖥️Analista de Qualidade De Software</p>
+Sou um profissional com foco em **Qualidade de Software** e **Testes Ágeis**. Minha missão é garantir a excelência na entrega de software através da **automação de testes**, utilizando as melhores práticas de metodologias como **Scrum**.
 
-###
+---
 
-<h2 align="left">Techs</h2>
+## 🛠️ Habilidades Técnicas
 
-###
+Minha stack é focada em automação robusta e eficiente:
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="25" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="25" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bamboo/0052CC" height="25" alt="bamboo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="jira logo"  />
-</div>
+| Categoria | Frameworks |
+| :--- | :--- |
+| **Automação Web/E2E** | **Playwright**, **Cypress**, Selenium, Robot Framework |
+| **Automação API** | **RestAssured**|
+| **Metodologia/BDD** | **Cucumber** (Gherkin), Testes Ágeis |
+| **CI/CD** | **GitHub Actions**|
+| **Versionamento** | Git, GitHub |
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aajota&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aajota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aajota&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="left">Social media</h2>
+---
 
-###
+## 🚀 Projetos em Destaque
+
+Estes repositórios demonstram minha proficiência com as principais ferramentas de automação:
+
+* **[Playwright E2E Test Suite]([https://github.com/aajota/Playwright])**
+    > Automação de testes End-to-End utilizando Playwright com JavaScript, focado em alta velocidade e confiabilidade.
+* **[RestAssured API Testing with Java]([https://github.com/aajota/RestAssured])**
+    > Exemplos de testes de API RESTful, validação de schemas e performance utilizando o framework RestAssured em Java.
+* **[Cucumber & Ruby/Java Integration]([https://github.com/aajota/CucumberRuby])**
+    > Demonstração de testes BDD utilizando Gherkin em conjunto com implementações em Ruby e Java.
+* **[Cypress Actions Workflow]([https://github.com/aajota/CypressActions])**
+    > Projeto focado na integração de testes Cypress com o pipeline de CI/CD utilizando GitHub Actions.
+
+---
+
+## 🌐 Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/junior-limaa/" target="_blank">
@@ -48,5 +51,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="23" alt="gmail logo"  />
 </div>
-
-###
