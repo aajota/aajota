@@ -16,13 +16,7 @@ Sou um profissional com foco em **Qualidade de Software** e **Testes Ágeis**. M
 | **CI/CD** | **GitHub Actions**|
 | **Versionamento** | Git, GitHub |
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aajota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ---
 
